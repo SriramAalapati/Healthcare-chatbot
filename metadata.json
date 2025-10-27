@@ -1,0 +1,6 @@
+{
+  "name": "AI Healthcare Chatbot",
+  "description": "An intelligent healthcare chatbot powered by Gemini, designed to answer health-related questions in a conversational manner. The interface is inspired by modern chat applications for a user-friendly experience.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
