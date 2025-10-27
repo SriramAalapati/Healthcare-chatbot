@@ -7,6 +7,7 @@ import { MediGenieIcon, MenuIcon, PdfIcon, RefreshIcon } from './components/Icon
 import { Sidebar } from './components/Sidebar';
 import jsPDF from 'jspdf';
 import html2canvas from 'html2canvas';
+import './app.css';
 
 const fileToBase64 = (file: File): Promise<string> => {
   return new Promise((resolve, reject) => {
